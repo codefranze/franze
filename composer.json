@@ -1,0 +1,24 @@
+{
+    "name": "Test",
+    "type": "library",
+    "description": "Test",
+    "keywords": ["test" ],
+    "homepage": "https://github.com/codefranze/packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wagner",
+            "email": "teste@teste.com.br",
+            "homepage": "http://teste.br",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Test": "src"
+        }
+    }
+}
