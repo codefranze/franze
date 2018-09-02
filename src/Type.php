@@ -1,6 +1,6 @@
 <?php
 
-namespace zenfra/types;
+namespace franze\Type;
 
 class Type{
 	
