@@ -1,5 +1,5 @@
 {
-    "name": "packagist/packagist",
+    "name": "zenfra/zenfra",
     "type": "library",
     "description": "Wagner",
     "keywords": ["test" ],
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Packagist": "src"
+            "Zenfra": "src"
         }
     }
 }
