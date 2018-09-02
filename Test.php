@@ -1,4 +1,7 @@
 <?php
+
+namespace Test;
+
 class Test{
 	
 	private $name;
