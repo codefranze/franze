@@ -1,8 +1,8 @@
 <?php
 
-namespace Zenfra;
+namespace zenfra/types;
 
-class Types{
+class Type{
 	
 	private $name;
 	private $type;
