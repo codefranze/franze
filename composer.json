@@ -1,14 +1,14 @@
 {
-    "name": "zenfra/zenfra",
+    "name": "franze/franze",
     "type": "library",
-    "description": "Wagner",
+    "description": "Teste Packagist",
     "keywords": ["test" ],
-    "homepage": "https://github.com/codefranze/packagist",
+    "homepage": "https://github.com/codefranze/franze",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wagner",
-            "email": "wagner@hotmail.com.com.br",
+            "name": "Franze",
+            "email": "fanze@hotmail.com.com.br",
             "homepage": "",
             "role": "Developer"
         }
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Zenfra": "src"
+            "Franze": "src"
         }
     }
 }
