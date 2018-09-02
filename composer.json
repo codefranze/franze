@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Teste Packagist",
     "keywords": ["Franze"],
-    "version": "1.0",
     "homepage": "https://github.com/codefranze/franze",
     "license": "MIT",
     "authors": [
