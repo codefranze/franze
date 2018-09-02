@@ -1,15 +1,15 @@
 {
-    "name": "Test",
+    "name": "zenfra",
     "type": "library",
-    "description": "Test",
+    "description": "Wagner",
     "keywords": ["test" ],
     "homepage": "https://github.com/codefranze/packagist",
     "license": "MIT",
     "authors": [
         {
             "name": "Wagner",
-            "email": "teste@teste.com.br",
-            "homepage": "http://teste.br",
+            "email": "wagner@hotmail.com.com.br",
+            "homepage": "",
             "role": "Developer"
         }
     ],
