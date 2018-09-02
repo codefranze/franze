@@ -1,6 +1,6 @@
 <?php
 
-namespace franze;
+namespace franze\franze;
 
 class Type{
 	
