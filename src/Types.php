@@ -2,7 +2,7 @@
 
 namespace Zenfra;
 
-class Test{
+class Types{
 	
 	private $name;
 	private $type;
